@@ -1,0 +1,45 @@
+{
+  "greeting": {
+    "title": "Moi Linh moi omakaseee!",
+    "message": "Join me for an intimate omakase experience.\n\nA warm evening of seasonal courses, thoughtfully curated by amazing chef.\n\nSeats are limited and by reservation only.",
+    "eventDetail": "Thursday, 23 October 2025 · 7:00 PM\n\nRAI Tottenham Court Road\nor JUNO Farmer Street\nor SOMSSI by Jihun Kim"
+  },
+  "hostInfo": [
+    {
+      "host": "Reservations & Gifts",
+      "accountInfo": [
+        {
+          "name": "Reservation Deposit (Optional)",
+          "relation": "To confirm your seat",
+          "bank": "PayPal",
+          "account": "paypal.me/your-omakase",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        },
+        {
+          "name": "Dietary Notes",
+          "relation": "Allergies & preferences",
+          "bank": "Message",
+          "account": "Please share any restrictions (shellfish, soy, gluten) when you RSVP.",
+          "kakaopayAccount": "",
+          "tossAccount": ""
+        }
+      ]
+    }
+  ],
+  "mapInfo": {
+    "address1": "Omakase restaurants",
+    "address2": "Rai - 13 Bayley St, London WC1B 3HD\nJuno - 2 Farmer St, London W8 7SN\nSomssi - 22 Hanover Square, London W1S 1JP",
+    "naverMap": "https://naver.me/IM4RDses",
+    "kakaoMap": "https://kko.kakao.com/otznTfkVWV",
+    "lat": 37.54222,
+    "lon": 126.952708
+  },
+  "locationInfo": [
+    {
+      "title": "📍 Schedule",
+      "desc": "Pls let me know ASAP to make a reservation."
+    }
+  ],
+  "emojis": ["🍣", "🍵", "🥢", "✨", "🤍", "💌"]
+}
